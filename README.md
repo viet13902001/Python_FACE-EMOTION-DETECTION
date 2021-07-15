@@ -1,8 +1,8 @@
 # Python_FACE-EMOTION-DETECTION
 ## Chương 1: Giới thiệu đề tài	5
-# 1.1. Tên đề tài	5
-# 1.2. Mục tiêu và nội dung.	5
-# 1.2.1. Mục tiêu	5
+* 1.1. Tên đề tài	5
+* 1.2. Mục tiêu và nội dung.	5
+* 1.2.1. Mục tiêu	5
 1.2.2. Nội dung	5
 1.3. Thành viên	5
 1.4. Phương thức thực hiện và kết quả	5
