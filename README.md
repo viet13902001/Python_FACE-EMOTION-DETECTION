@@ -3,12 +3,8 @@
 ## Chương 1: Giới thiệu đề tài	5
 * 1.1. Tên đề tài	5
 * 1.2. Mục tiêu và nội dung.	5
-** 1.2.1. Mục tiêu	5
-** 1.2.2. Nội dung	5
 * 1.3. Thành viên	5
 * 1.4. Phương thức thực hiện và kết quả	5
-** 1.4.1. Phương thức thực hiện	5
-** 1.4.2. Kết quả	5
 ## Chương 2: Tổng quan cơ sở lý thuyết và xử lý dữ liệu ảnh	6
 * 2.1. Ngôn ngữ lập trình Python	6
 * 2.2. Tổng quan về thư viện Scikit - learn trong Python	7
