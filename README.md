@@ -1,4 +1,5 @@
 # Python_FACE-EMOTION-DETECTION
+# Phạm Ngọc Việt
 ## Chương 1: Giới thiệu đề tài	5
 * 1.1. Tên đề tài	5
 * 1.2. Mục tiêu và nội dung.	5
